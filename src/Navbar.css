@@ -1,0 +1,19 @@
+.container{
+    
+    background-color: rgb(89, 189, 214);
+    
+} 
+.container h3,p{
+    margin: 30px 50px 30px 50px;
+    display: inline-block;
+    cursor: pointer;
+}
+.container a{
+    text-decoration: none;
+    color: rgb(14, 10, 13);
+}
+
+.content{
+    position: relative;
+    left: 150px;
+}
